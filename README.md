@@ -88,9 +88,3 @@ We propose a conceptual framework titled:
 - 📄 **Research Proposal:** Available in this repository  
 
 ---
-
-## 🏫 Course Information
-- **Module:** Machine Learning and Optimization Methods (IT3071)  
-- **Lecturer:** Mr. Samadhi Chathuranga Rathnayake  
-- **Institution:** SLIIT  
-- **Assignment Type:** Group Research-Based Assignment  
