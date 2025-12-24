@@ -83,7 +83,7 @@ We propose a conceptual framework titled:
 ---
 
 ## 🔗 Project Resources
-- 🎥 **Explainer Video:** https://your-video-link-here  
+- 🎥 **Explainer Video:** https://drive.google.com/drive/u/0/folders/1zuwNJVgpziTnTfGAqeyrDzv6227OOHv8 
 - 📊 **Presentation Slides (Canva):** (https://www.canva.com/design/DAG0jmqwZ40/mKF6R6VX8a2eQj6n-s7xPQ/edit)
 - 📄 **Research Proposal:** Available in this repository  
 
